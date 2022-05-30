@@ -1,5 +1,5 @@
 # May-Projects-JS
-JS projects from FreeCodeCamp
+JS projects from freeCodeCamp
 Featuring
 
 - Palindrome checker project
